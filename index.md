@@ -2,13 +2,13 @@
 layout: default
 ---
 
-{% include 01-image.md %}
+![Minion](https://i.kym-cdn.com/entries/icons/mobile/000/018/385/Rs_634x1024-130605092844-634.DespMe2.mh.060513.jpg)
 
 <br>
 
-{% include 02-image.md %}
+![Minion and Friend](https://en.wikipedia.org/wiki/Minions_(Despicable_Me)#/media/File:Minions_characters.png)
 
 <br>
 
-{% include 03-links.md %}
+[Facebook](https://www.facebook.com/)
 
